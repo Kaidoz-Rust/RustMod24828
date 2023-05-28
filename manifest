@@ -3,7 +3,7 @@
    "Servers":{
       "Official":[
          {
-            "Address":"s1.rusty-host.ru",
+            "Address":"185.189.255.57",
             "Port":35000,
             "Tags":""
          },
