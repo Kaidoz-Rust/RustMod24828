@@ -19,22 +19,4 @@
       ],
       "Banned":[]
    }
-
-   "appnews": { 
-      "appid": 252490, 
-      "newsitems": [ { 
-         "gid": 828498814084, 
-         "title": "ИНФОРМАЦИЯ", 
-         "url": "https://vk.com/fine.rust", 
-         "is_external_url": true, 
-         "author": "Forset", 
-         "contents": "[img]https://i.imgur.com/rMbsmKf.png[/img] ● IP: CONNECT S2.RUSTY-HOST.RU:35003\n● ГРУППА ВК: VK.COM/FINE.RUST \n● ДОНАТ МАГАЗИН -> SHOP.FINERUST.RU", 
-         "feedlabel": "Community Announcements", 
-         "date": 1683903600, 
-         "feedname": "steam_community_announcements", 
-         "feed_type": 1, 
-         "appid": 252490 
-         } 
-      ] 
-   } 
 }
